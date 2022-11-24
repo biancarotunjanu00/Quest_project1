@@ -1,0 +1,12 @@
+button {
+    border: 1px solid hsla(0, 86%, 33%, 0.886);
+    margin: 1px;
+}
+
+.customButton{
+    font-weight: bold;
+}
+
+.borderRound{
+    border-radius: 5px;
+}
